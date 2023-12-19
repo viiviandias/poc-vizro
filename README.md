@@ -12,6 +12,3 @@ No ambiente do Vizro, é possível incorporar gráficos, tabelas, cards e divers
 ## Fonte
 
 Para aprofundar sua pesquisa sobre o assunto, recomendo explorar informações diretamente no GitHub da McKinsey ou no site oficial do Vizro. Nestes recursos, você encontrará não apenas códigos adicionais, mas também passo a passo para a construção de dashboards. Além disso, essas plataformas oferecem exemplos variados de tipos de gráficos e outras ferramentas, proporcionando uma visão abrangente e prática das capacidades do Vizro.
-
-![Texto Alternativo](/Users/viviandias/Downloads/Vizro-Dashboard.jpg)
-
